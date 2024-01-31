@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adventures in Transaction Tracking and Budgeting"
+title:  "From Interns to Engineers: Class of 2023's Transition to Full-Time Roles at Gusto"
 date:   2024-01-30 16:31:00 -0800
 ---
 
