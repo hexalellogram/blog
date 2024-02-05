@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my blog.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Bryce - currently, I'm a site reliability engineer at [Gusto](https://gusto.com/). Outside of work, I'm a huge transit nerd, I watch (probably too much) TV (with a particular bias towards animation and science fiction), sometimes I play video games like Team Fortress 2 and Titanfall 2, and I probably spend too much time thinking about tech outside of work.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can find out about me at [my website](https://brycetsuyuki.com) if you want.
