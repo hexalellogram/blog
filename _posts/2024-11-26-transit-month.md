@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Taking Transit For a Month"
-date:   2024-11-26 23:17:00 -0800
+date:   2024-11-26 07:36:00 -0800
 ---
 
 ![A VTA bus](/imgs/2024-11-26-transit-month/vta.jpeg)
+
+Oh look I'm finally writing something for this blog again after not having posted for almost a year. Guess the prediction I made when I started this came true.
 
 I'm an advocate for better transit service. I grew up in Orange County, California, where the only bus route within walking distance from my house came once every 45 minutes and stopped service at about 8:30 PM at night, so I know what it's like to be car-dependent to get around. Of course, if I really wanted to commit to living on transit only, I should have lived in San Francisco proper. Muni has fantastic bus coverage and frequency (even if it is a bit slow).
 
